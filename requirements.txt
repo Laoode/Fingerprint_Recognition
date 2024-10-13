@@ -1,0 +1,8 @@
+numpy==1.23.5
+opencv_python==4.9.0.80
+opencv_python_headless==4.8.0.74
+Pillow==10.4.0
+skimage==0.0
+tensorflow==2.16.2
+tensorflow_intel==2.16.2
+matplotlib==3.8.0
