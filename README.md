@@ -1,6 +1,6 @@
 <h1 align="center">$$\text{\color{white}Biometrics Recognition}$$ $$\text{\color{lightgreen}Reconstructing Fingerprint}$$ </h1>
 
-<img src="https://github.com/Laoode/Fingerprint_Recognition/blob/main/Images/Fingepint-animation.gif" alt="logo">
+<img src="https://github.com/Laoode/Fingerprint_Recognition/blob/main/Images/Fingepint-animation-reduce.gif" alt="logo">
 This repository contains a project for Biometrics Recognition Reconstructing Fingerprint Images Using Deep Learning (Convolutional Autoencoder). Systems for recognizing fingerprints have been used extensively to implement precise and trustworthy biometric identification between people. Pattern recognition in computer vision has greatly benefited from deep learning, particularly Convolutional Neural Networks (CNN). In this work, fingerprint images have been reconstructed using a convolutional neural network autoencoder. An autoencoder is a method that can reproduce information in pictures. The advantage of convolutional neural networks makes it suitable for feature extraction.
 
 > [!NOTE]
