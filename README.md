@@ -1,5 +1,3 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=34&duration=1&pause=1000&color=EEEEEE&background=90EE90C7&vCenter=true&repeat=false&width=800&lines=Biometrics+Recognition++Reconstructing+Fingerprint" alt="Typing SVG" /></a></h1>
-
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=29&duration=1&pause=1000&color=EEEEEE&background=90EE90C7&vCenter=true&repeat=false&width=800&lines=BIOMETRICS+RECOGNITION+RECONSTRUCTING+FINGERPRINT" alt="Typing SVG" /></a></h1>
 
 <img src="https://github.com/Laoode/Fingerprint_Recognition/blob/main/Images/Fingepint-animation-reduce.gif" alt="logo">
